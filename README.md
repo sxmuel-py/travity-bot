@@ -6,7 +6,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue?style=flat-square&logo=python)](https://www.python.org)
 [![Machine Learning](https://img.shields.io/badge/AI-Random%20Forest%20Classifier-green?style=flat-square)](https://scikit-learn.org)
 
-**TRAVITY** is a high-performance, **Automated Crypto Trading Bot** optimized for **BTC/USDT Futures**. By combining **Quantitative Mean Reversion** with a **Machine Learning (ML) Gatekeeper**, TRAVITY identifies high-probability volatility spikes and executes precision trades with production-grade risk management.
+**TRAVITY** is a high-performance, **Automated Crypto Trading Bot** optimized for **Multi-Coin Portfolio Trading** (BTC, ETH, SOL). By combining **Quantitative Mean Reversion** with an **Adaptive AI Gatekeeper**, TRAVITY identifies high-probability volatility spikes and executes precision trades with professional 1:3 risk management.
 
 ---
 
@@ -18,10 +18,10 @@ Traditional **Algorithmic Trading Bots** often fail during "breakouts." TRAVITY 
 
 ---
 
-## ⚡ Core Features (*Search: Best Bitcoin Trading Bot 2026*)
-
+*   **⚙️ Multi-Coin Intelligence**: Scan and trade multiple assets (BTC, ETH, SOL) simultaneously with independent AI models.
 *   **⚡ High-Performance Execution**: Sub-second order placement using `ccxt` for Bybit V5 and Binance Futures.
-*   **🤖 AI-Optimized Filtering**: Machine learning model trained dynamically on recent 15-minute OHLCV data.
+*   **🤖 Adaptive AI Filtering**: Machine learning models trained per-asset on 1m/15m OHLCV data.
+*   **🎯 Professional 1:3 R:R**: Optimized for **0.8% Stop Loss** and **2.4% Take Profit** to maximize win-rate efficiency.
 *   **🛡️ Institutional Risk Management**:
     *   **Fixed-Fractional Position Sizing**: (1% risk per trade).
     *   **Persistent Daily Stop Loss**: Circuit breaker at 5% drawdown to preserve capital.
